@@ -5,7 +5,7 @@ Our future plans include academic and practical advances for our project. We wil
 Our vision is to produce a complete product that will provide time efficiency and accessibility to users from all backgrounds. We are also eager to contribute to academics by comparing and analyzing the possibility of quantum machine learning and quantum Fourier transformations’ advantage for faster calculations. We see and recognize the increasing demand for optimized video editing brought by new-age media, we believe that our plug-in will take place in common practices in DaVinci Resolve.
 
 
-GOALS
+<bold>GOALS<bold><br>
 
 To successfully build an AI that can differentiate between filler words and speech.
 Build a secondary AI on a quantum computer and compare it to a classical one.
