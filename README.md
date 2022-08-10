@@ -10,7 +10,8 @@ Our vision is to produce a complete product that will provide time efficiency an
 To successfully build an AI that can differentiate between filler words and speech.
 Build a secondary AI on a quantum computer and compare it to a classical one.
 Build an API that can take information from AI and process it through DaVinci Resolve.
-Finish and bring a complete product.
+Finish and bring a complete product.<br><br>
+    
 PROPERTIES
 Our project will consist of audio recognition AI which will determine the parts to be cut and kept for the video to be uploaded. In our project, we are considering adding a slider to determine the intensity of video editing and cutting for blank spaces and filler words giving the consumer the ability to decide the natural flow they desire in their video. Our interface will be user-friendly, giving choices to users to directly have a predesigned ready-to-import video or will only highlight the audio pieces that can be edited as wished by the user. 
 STEPS:
